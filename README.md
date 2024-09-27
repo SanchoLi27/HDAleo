@@ -12,7 +12,7 @@
 <br/>
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=HDAleo&theme=github-compact&hide_border=true&area=true">
 <br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=HDA&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=HDA&theme=transparent&hide_border=true&layout=compact&langs_count=10" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HDAleo&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=5" />
 <br/>
 <img align="center" src="https://skillicons.dev/icons?i=c,cpp,py,matlab,linux,ros,md&theme=light" />
