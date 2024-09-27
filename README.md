@@ -22,7 +22,7 @@
 <a href="https://github.com/HDAleo"><img src="https://img.shields.io/badge/GitHub-HDAleo-blue?logo=github" /></a>
 <a href="https://space.bilibili.com/37541997"><img src="https://img.shields.io/badge/哔哩哔哩-HDA_-blue?logo=bilibili" /></a>
 <img src="https://img.shields.io/badge/QQ-919418984-blue?logo=tencentqq" />
-<a href="https://wakatime.com/@HDAleo"><img src="https://wakatime.com/badge/user/67677d2a-fdc6-4c21-a964-b5477332bc69.svg" /></a>
+<a href="https://wakatime.com/@HDAleo"><img src="https://wakatime.com/badge/user/6c4ab80f-b2c9-4a51-a122-2e2c76231417.svg" /></a>
 <img src="https://komarev.com/ghpvc/?username=HDAleo&abbreviated=true&color=blue" />
 </p>
 
