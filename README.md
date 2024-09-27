@@ -12,8 +12,8 @@
 <br/>
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=HDAleo&theme=github-compact&hide_border=true&area=true">
 <br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=HDAleo&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HDAleo&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=HDAleo&theme=transparent&hide_border=true&layout=compact&langs_count=5" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HDAleo&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=5" />
 <br/>
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,md,matlab&theme=light" />
 </p>
@@ -22,6 +22,7 @@
 <a href="https://github.com/HDAleo"><img src="https://img.shields.io/badge/GitHub-HDAleo-blue?logo=github" /></a>
 <a href="https://space.bilibili.com/37541997"><img src="https://img.shields.io/badge/哔哩哔哩-HDA_-blue?logo=bilibili" /></a>
 <img src="https://img.shields.io/badge/QQ-919418984-blue?logo=tencentqq" />
+<a href="https://wakatime.com/@HDAleo"><img src="https://wakatime.com/badge/user/67677d2a-fdc6-4c21-a964-b5477332bc69.svg" /></a>
 <img src="https://komarev.com/ghpvc/?username=HDAleo&abbreviated=true&color=blue" />
 </p>
 
