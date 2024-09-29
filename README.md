@@ -14,9 +14,11 @@
 </picture>
 </p>
 
+<p align="center">
 - 👨‍🎓Undergraduate of HDU
 - 👥Member of ~~CTRL~~ CV Group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)
 - RMer
+</p>
 
 <p align="center">
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=HDAleo&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
