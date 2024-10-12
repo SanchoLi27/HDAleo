@@ -31,6 +31,7 @@
 </p>
 
 <p align="center">
+<a href="https://http://hdaleo.site"><img src="https://img.shields.io/badge/Blog-HDAleo-blue?logo=blog" /></a>
 <a href="https://github.com/HDAleo"><img src="https://img.shields.io/badge/GitHub-HDAleo-blue?logo=github" /></a>
 <a href="https://space.bilibili.com/37541997"><img src="https://img.shields.io/badge/哔哩哔哩-HDA_-blue?logo=bilibili" /></a>
 <img src="https://img.shields.io/badge/QQ-919418984-blue?logo=tencentqq" />
