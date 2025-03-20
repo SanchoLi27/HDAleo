@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20HDAleo!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20HDA27!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
 </p>
 
 <p align="center">
@@ -16,11 +16,16 @@
 
 - 👨‍🎓Undergraduate of HDU
 - 👥Member of ~~CTRL~~ CV Group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX),RMer
-- 🔍Main area:Navigation
+- 🔍Main Area: SLAM & Navigation
 
-<p align="center">
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=HDAleo&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=HDAleo&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+<!-- 实现并排功能 -->
+<div style="display: flex; justify-content: space-between;">
+  <!-- github状态显示 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=HDAleo&show_icons=true&theme=github_dark_dimmed&cache_seconds=300&clear_cache=true" alt="GitHub Stats" style="width: 55%;">
+  <!-- 编程语言展示 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HDAleo&hide=html,css,JavaScript&layout=compact&theme=github_dark_dimmed&cache_seconds=300&clear_cache=true" alt="Top Languages" style="width: 35%;">
+
+</div>
 <br/>
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=HDAleo&theme=github-compact&hide_border=true&area=true">
 <br/>
