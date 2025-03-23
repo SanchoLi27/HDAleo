@@ -14,21 +14,20 @@
 </picture>
 </p>
 
-- 👨‍🎓Undergraduate of HDU
-- 👥Member of ~~CTRL~~ CV Group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX),RMer
+- 👨‍🎓 Undergraduate of Hangzhou Dianzi University(HDU), majoring in computer science.
+- 👥 Member of vision group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)
 - 🔍Main Area: SLAM & Navigation
 
-<!-- 实现并排功能 -->
-<div style="display: flex; justify-content: space-between;">
-  <!-- github状态显示 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=HDAleo&show_icons=true&theme=github_dark_dimmed&cache_seconds=300&clear_cache=true" alt="GitHub Stats" style="width: 55%;">
-  <!-- 编程语言展示 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HDAleo&hide=html,css,JavaScript&layout=compact&theme=github_dark_dimmed&cache_seconds=300&clear_cache=true" alt="Top Languages" style="width: 35%;">
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width=400 src="https://api-github-readme-stats.HDAleo.top/api?username=HDAleo&show_icons=true&hide_border=true&theme=transparent" /></a>
+<a href="https://git.io/streak-stats"><img width=400 src="https://github-readme-streak-stats-seven-rho.vercel.app?user=HDAleo&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
+</p>
+<p align="center">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img width=800 src="https://github-readme-activity-graph-dun.vercel.app/graph?username=HDAleo&theme=github-compact&hide_border=true&area=true" /></a>
+</p>
+
 
 </div>
-<br/>
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=HDAleo&theme=github-compact&hide_border=true&area=true">
-<br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=HDA&theme=transparent&hide_border=true&layout=compact&langs_count=10" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HDAleo&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=5" />
 <br/>
