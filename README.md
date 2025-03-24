@@ -22,10 +22,16 @@
 </picture>
 </p>
 
+<div align="center">
+<span>  </span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=HDAleo&theme=transparent" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HDAleo&layout=compact&langs_count=8&theme=transparent" />
+<span>  </span>
+</div>
+
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img width=400 src="https://api-github-readme-stats.HDAleo.top/api?username=HDAleo&show_icons=true&hide_border=true&theme=transparent" /></a>
 <a href="https://git.io/streak-stats"><img width=400 src="https://github-readme-streak-stats-seven-rho.vercel.app?user=HDAleo&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 </p>
+
 <p align="center">
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img width=800 src="https://github-readme-activity-graph-dun.vercel.app/graph?username=HDAleo&theme=github-compact&hide_border=true&area=true" /></a>
 </p>
@@ -44,7 +50,7 @@
 
 ## 🛠️ Technologies & Tools
 
-<img align="center" src="https://skillicons.dev/icons?i=c,cpp,py,opencv,matlab,linux,bash,pytorch,anaconda,ros,md&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=c,cpp,py,opencv,matlab,linux,bash,pytorch,anaconda,ros,md,docker,raspberrypi,ps,pr&theme=light" />
 
 ## 📫 How to reach me
 
