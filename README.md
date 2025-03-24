@@ -22,9 +22,13 @@
 </picture>
 </p>
 
+<p align="center">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img width=800 src="https://github-readme-activity-graph-dun.vercel.app/graph?username=HDAleo&theme=github-compact&hide_border=true&area=true" /></a>
+</p>
+
 <div align="center">
 <span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=HDAleo&theme=transparent" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HDAleo&layout=compact&langs_count=8&theme=transparent" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=HDAleo&theme=transparent" />
 <span>  </span>
 </div>
 
@@ -32,13 +36,11 @@
 <a href="https://git.io/streak-stats"><img width=400 src="https://github-readme-streak-stats-seven-rho.vercel.app?user=HDAleo&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
-<p align="center">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img width=800 src="https://github-readme-activity-graph-dun.vercel.app/graph?username=HDAleo&theme=github-compact&hide_border=true&area=true" /></a>
-</p>
-
 </div>
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=HDA&theme=transparent&hide_border=true&layout=compact&langs_count=10" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HDAleo&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=5" />
+</p>
 
 <p align="center">
 <img align="center" src="https://komarev.com/ghpvc/?username=HDAleo&abbreviated=true&color=blue" />
