@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-<a href="https://wakatime.com/@6c4ab80f-b2c9-4a51-a122-2e2c76231417"><img src="https://wakatime.com/badge/user/6c4ab80f-b2c9-4a51-a122-2e2c76231417.svg" /></a>
+<a href="https://wakatime.com/@6c4ab80f-b2c9-4a51-a122-2e2c76231417"><img src="https://wakatime.com/badge/user/6b4e2eb8-cf31-45e8-aa9d-fc48c8c4e780.svg" /></a>
 </p>
 
 ## 🛠️ Technologies & Tools
