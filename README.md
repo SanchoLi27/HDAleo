@@ -52,7 +52,8 @@
 
 ## 🛠️ Technologies & Tools
 
-<img align="center" src="https://skillicons.dev/icons?i=c,cpp,py,opencv,matlab,linux,bash,pytorch,anaconda,ros,md,docker,raspberrypi,ps,pr&theme=light" />
+<p align="center">
+<img align="center" src="https://skillicons.dev/icons?i=c,cpp,cmake,py,opencv,matlab,latex,linux,bash,pytorch,anaconda,ros,md,docker,mysql&theme=light" />
 
 ## 📫 How to reach me
 
